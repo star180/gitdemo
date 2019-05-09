@@ -15,9 +15,16 @@ public class TestDemo {
         System.out.println("hell");
         System.out.println("hell");
         System.out.println("hell");
+
+        System.out.println("hell");
+        System.out.println("hell");
+        System.out.println("hell");
     }
 
     public void test(){
+        System.out.println("ddddd");
+        System.out.println("ddddd");
+        System.out.println("ddddd");
         System.out.println("ddddd");
     }
 }
